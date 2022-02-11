@@ -13,5 +13,5 @@ else if (idade==12) {
     alert ("Você pode jogar com a permissão dos pais!");   
 }
 else{
-    alert ("Você pode jogar!")
+    alert ("Você pode jogar!");
 }
